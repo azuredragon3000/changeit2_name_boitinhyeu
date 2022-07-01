@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yalantis:phoenix:1.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a7e79fc3c31d89f8a9284eff910bdbf7/transformed/jetified-phoenix-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7e79fc3c31d89f8a9284eff910bdbf7/transformed/jetified-phoenix-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7e79fc3c31d89f8a9284eff910bdbf7/transformed/jetified-phoenix-1.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yalantis/phoenix/1.2.2/12c33ada10b07d9b6c5b3b3aef08e66ba3e0a8e/phoenix-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yalantis/phoenix/1.2.2/46e2eabe60a64ce111da881ed4f6586b29e872bd/phoenix-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
