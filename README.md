@@ -1,3 +1,11 @@
+Screenshot_20220701_095934_paid app.png  
+<img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/Screenshot_20220701_095934_paid app.png" />   
+Screenshot_20220701_100025_paid_app.png  
+<img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/Screenshot_20220701_100025_paid_app.png" />   
+Screenshot_20220701_100044_paid_app.png  
+<img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/Screenshot_20220701_100044_paid_app.png" />   
+app/src/main/ic_launcher-playstore.png  
+<img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/ic_launcher-playstore.png" />   
 app/src/main/res/drawable-hdpi  
 <img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/drawable-hdpi" />   
 app/src/main/res/drawable-hdpi/ic_android.png  
@@ -42,6 +50,8 @@ app/src/main/res/drawable-mdpi/ic_visibility_off_white.png
 <img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/drawable-mdpi/ic_visibility_off_white.png" />   
 app/src/main/res/drawable-mdpi/ic_visibility_white.png  
 <img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/drawable-mdpi/ic_visibility_white.png" />   
+app/src/main/res/drawable-v24  
+<img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/drawable-v24" />   
 app/src/main/res/drawable-v24/ic_launcher_foreground.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />   
 app/src/main/res/drawable-xhdpi  
@@ -100,6 +110,8 @@ app/src/main/res/drawable-xxxhdpi/ic_visibility_off_white.png
 <img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/drawable-xxxhdpi/ic_visibility_off_white.png" />   
 app/src/main/res/drawable-xxxhdpi/ic_visibility_white.png  
 <img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/drawable-xxxhdpi/ic_visibility_white.png" />   
+app/src/main/res/drawable  
+<img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/drawable" />   
 app/src/main/res/drawable/fab_label_background.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/drawable/fab_label_background.xml" />   
 app/src/main/res/drawable/fastscroller_rounded.xml  
@@ -158,3 +170,9 @@ app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png
 <img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" />   
 app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png  
 <img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />   
+icon2.png  
+<img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/icon2.png" />   
+pngwing.com.png  
+<img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/pngwing.com.png" />   
+pngwing.com2.png  
+<img src="https://github.com/azuredragon3000/googleconsole_super_manager_paid/blob/master/pngwing.com2.png" />   
